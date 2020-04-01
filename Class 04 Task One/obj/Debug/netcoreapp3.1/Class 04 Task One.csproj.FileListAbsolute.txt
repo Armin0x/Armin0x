@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Class 04 Task One\Class 04 Task One\bin\Debug\netcoreapp3.1\Class 04 Task One.exe
+C:\Users\User\source\repos\Class 04 Task One\Class 04 Task One\bin\Debug\netcoreapp3.1\Class 04 Task One.deps.json
+C:\Users\User\source\repos\Class 04 Task One\Class 04 Task One\bin\Debug\netcoreapp3.1\Class 04 Task One.runtimeconfig.json
+C:\Users\User\source\repos\Class 04 Task One\Class 04 Task One\bin\Debug\netcoreapp3.1\Class 04 Task One.runtimeconfig.dev.json
+C:\Users\User\source\repos\Class 04 Task One\Class 04 Task One\bin\Debug\netcoreapp3.1\Class 04 Task One.dll
+C:\Users\User\source\repos\Class 04 Task One\Class 04 Task One\bin\Debug\netcoreapp3.1\Class 04 Task One.pdb
+C:\Users\User\source\repos\Class 04 Task One\Class 04 Task One\obj\Debug\netcoreapp3.1\Class 04 Task One.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Class 04 Task One\Class 04 Task One\obj\Debug\netcoreapp3.1\Class 04 Task One.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Class 04 Task One\Class 04 Task One\obj\Debug\netcoreapp3.1\Class 04 Task One.AssemblyInfo.cs
+C:\Users\User\source\repos\Class 04 Task One\Class 04 Task One\obj\Debug\netcoreapp3.1\Class 04 Task One.dll
+C:\Users\User\source\repos\Class 04 Task One\Class 04 Task One\obj\Debug\netcoreapp3.1\Class 04 Task One.pdb
